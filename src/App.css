@@ -31,3 +31,14 @@
     transform: rotate(360deg);
   }
 }
+
+#container {
+  padding: 10%;
+  background-color: #EEE;
+}
+
+#container h1 {
+  font-size: 4em;
+  font-family: sans-serif;
+  color: #0080A8;
+}
